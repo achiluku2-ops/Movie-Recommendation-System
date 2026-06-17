@@ -17,19 +17,6 @@ This project recommends movies similar to a given movie title by comparing movie
 
 ---
 
-## 📂 Dataset
-
-The project uses the **MovieLens Dataset**.
-
-Files used:
-
-- `movies.csv` – Contains movie titles and genres
-- `ratings.csv` – Contains user ratings for movies
-
-Dataset Source:
-https://grouplens.org/datasets/movielens/
-
----
 
 ## 🧠 Model Used
 
